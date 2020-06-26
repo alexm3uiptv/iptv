@@ -1,0 +1,865 @@
+#EXTM3U
+#EXTINF:-1,TR.ATV HD
+http://smip.tv:8080/onurtest/onu1984/144
+#EXTINF:-1,TR.ATV SD
+http://smip.tv:8080/onurtest/onu1984/161
+#EXTINF:-1,TR.ATV AVRUPA
+http://smip.tv:8080/onurtest/onu1984/177
+#EXTINF:-1,TR.TRT 1 HD
+http://smip.tv:8080/onurtest/onu1984/143
+#EXTINF:-1,TR.TRT 1 SD
+http://smip.tv:8080/onurtest/onu1984/160
+#EXTINF:-1,TR.SHOW TV HD
+http://smip.tv:8080/onurtest/onu1984/145
+#EXTINF:-1,TR.SHOW TV SD
+http://smip.tv:8080/onurtest/onu1984/162
+#EXTINF:-1,TR.STAR TV HD
+http://smip.tv:8080/onurtest/onu1984/146
+#EXTINF:-1,TR.STAR TV SD
+http://smip.tv:8080/onurtest/onu1984/164
+#EXTINF:-1,TR.360 TV
+http://smip.tv:8080/onurtest/onu1984/42
+#EXTINF:-1,TR.A2 HD
+http://smip.tv:8080/onurtest/onu1984/44
+#EXTINF:-1,TR.FOX TV HD
+http://smip.tv:8080/onurtest/onu1984/147
+#EXTINF:-1,TR.TV8 HD
+http://smip.tv:8080/onurtest/onu1984/148
+#EXTINF:-1,TR.KANAL D HD
+http://smip.tv:8080/onurtest/onu1984/149
+#EXTINF:-1,TR.BEYAZ TV HD
+http://smip.tv:8080/onurtest/onu1984/150
+#EXTINF:-1,TR.KANAL 7 HD
+http://smip.tv:8080/onurtest/onu1984/151
+#EXTINF:-1,TR.BEYAZ TV FHD
+http://smip.tv:8080/onurtest/onu1984/159
+#EXTINF:-1,TR.KANAL D SD
+http://smip.tv:8080/onurtest/onu1984/163
+#EXTINF:-1,TR.FOX TV SD
+http://smip.tv:8080/onurtest/onu1984/165
+#EXTINF:-1,TR.TV8 SD
+http://smip.tv:8080/onurtest/onu1984/166
+#EXTINF:-1,TR.KANAL 7 SD
+http://smip.tv:8080/onurtest/onu1984/167
+#EXTINF:-1,TR.TV8.5 HD
+http://smip.tv:8080/onurtest/onu1984/168
+#EXTINF:-1,TR.BEYAZ TV SD
+http://smip.tv:8080/onurtest/onu1984/169
+#EXTINF:-1,TR.ULUSAL TV
+http://smip.tv:8080/onurtest/onu1984/172
+#EXTINF:-1,TR.ULKE TV
+http://smip.tv:8080/onurtest/onu1984/173
+#EXTINF:-1,TR.KANAL 7 HD AVRUPA
+http://smip.tv:8080/onurtest/onu1984/174
+#EXTINF:-1,(GR) EPT 1
+http://p.dtv.sx:80/live/visiontv/775142/17365.ts
+#EXTINF:-1,(GR) EPT 2
+http://p.dtv.sx:80/live/visiontv/775142/17364.ts
+#EXTINF:-1,(GR) EPT 3
+http://p.dtv.sx:80/live/visiontv/775142/17363.ts
+#EXTINF:-1,(GR) EPT Sports HD
+http://p.dtv.sx:80/live/visiontv/775142/19812.ts
+#EXTINF:-1,(GR) MEGA Channel
+http://p.dtv.sx:80/live/visiontv/775142/20758.ts
+#EXTINF:-1,(GR) ANT 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/17360.ts
+#EXTINF:-1,(GR) Skai HD
+http://p.dtv.sx:80/live/visiontv/775142/17362.ts
+#EXTINF:-1,(GR) Star HD
+http://p.dtv.sx:80/live/visiontv/775142/17361.ts
+#EXTINF:-1,(GR) Alpha HD
+http://p.dtv.sx:80/live/visiontv/775142/17358.ts
+#EXTINF:-1,(GR) E! Entertainment HD
+http://p.dtv.sx:80/live/visiontv/775142/17350.ts
+#EXTINF:-1,(GR) Makedonia TV HD
+http://p.dtv.sx:80/live/visiontv/775142/17354.ts
+#EXTINF:-1,(GR) 4E TV
+http://p.dtv.sx:80/live/visiontv/775142/17351.ts
+#EXTINF:-1,(GR) Blue Sky HD
+http://p.dtv.sx:80/live/visiontv/775142/17355.ts
+#EXTINF:-1,(GR) Mad TV
+http://p.dtv.sx:80/live/visiontv/775142/19809.ts
+#EXTINF:-1,(GR) Kontra
+http://p.dtv.sx:80/live/visiontv/775142/19810.ts
+#EXTINF:-1,(GR) Extra
+http://p.dtv.sx:80/live/visiontv/775142/19811.ts
+#EXTINF:-1,(GR) Vouli
+http://p.dtv.sx:80/live/visiontv/775142/19800.ts
+#EXTINF:-1,(GR) Sigma TV
+http://p.dtv.sx:80/live/visiontv/775142/20761.ts
+#EXTINF:-1,(GR) ANT 1
+http://p.dtv.sx:80/live/visiontv/775142/19798.ts
+#EXTINF:-1,(GR) Skai
+http://p.dtv.sx:80/live/visiontv/775142/19795.ts
+#EXTINF:-1,(GR) Star
+http://p.dtv.sx:80/live/visiontv/775142/19794.ts
+#EXTINF:-1,(GR) Alph
+http://p.dtv.sx:80/live/visiontv/775142/19799.ts
+#EXTINF:-1,(GR) Makedonia
+http://p.dtv.sx:80/live/visiontv/775142/19796.ts
+#EXTINF:-1,(GR) BluSky
+http://p.dtv.sx:80/live/visiontv/775142/19806.ts
+#EXTINF:-1,(GR) Kontra TV
+http://p.dtv.sx:80/live/visiontv/775142/17345.ts
+#EXTINF:-1,(GR) Action 24
+http://p.dtv.sx:80/live/visiontv/775142/19808.ts
+#EXTINF:-1,(GR) Attica
+http://p.dtv.sx:80/live/visiontv/775142/19807.ts
+#EXTINF:-1,(GR) Channel 9
+http://p.dtv.sx:80/live/visiontv/775142/19805.ts
+#EXTINF:-1,(GR) Rise
+http://p.dtv.sx:80/live/visiontv/775142/19804.ts
+#EXTINF:-1,(GR) Nick
+http://p.dtv.sx:80/live/visiontv/775142/19803.ts
+#EXTINF:-1,(GR) Alert
+http://p.dtv.sx:80/live/visiontv/775142/19802.ts
+#EXTINF:-1,(GR) Smile
+http://p.dtv.sx:80/live/visiontv/775142/19801.ts
+#EXTINF:-1,GR | ERTPLAY 1
+http://p.dtv.sx:80/live/visiontv/775142/21840.ts
+#EXTINF:-1,GR | ERTPLAY 2
+http://p.dtv.sx:80/live/visiontv/775142/21841.ts
+#EXTINF:-1,GR | ERTPLAY 3
+http://p.dtv.sx:80/live/visiontv/775142/21842.ts
+#EXTINF:-1,GR | ERTPLAY 4
+http://p.dtv.sx:80/live/visiontv/775142/21843.ts
+#EXTINF:-1,(GR) Nova Cinema 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20762.ts
+#EXTINF:-1,(GR) Nova Cinema 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/20763.ts
+#EXTINF:-1,(GR) Nova Cinema 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/20764.ts
+#EXTINF:-1,(GR) Nova Cinema 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/20765.ts
+#EXTINF:-1,(GR) Nova Premiere1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20766.ts
+#EXTINF:-1,(GR) Nova Sport 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20767.ts
+#EXTINF:-1,(GR) Nova Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/20768.ts
+#EXTINF:-1,(GR) Nova Sport 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/20769.ts
+#EXTINF:-1,(GR) Nova Sport 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/20770.ts
+#EXTINF:-1,(GR) Cosmote Sport 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/19793.ts
+#EXTINF:-1,(GR) Cosmote Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/19792.ts
+#EXTINF:-1,(GR) Cosmote Sport 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/19791.ts
+#EXTINF:-1,(GR) Cosmote Sport 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19790.ts
+#EXTINF:-1,(GR) Cosmote Sport 5 HD
+http://p.dtv.sx:80/live/visiontv/775142/19789.ts
+#EXTINF:-1,(GR) Cosmote Sport 6 HD
+http://p.dtv.sx:80/live/visiontv/775142/19788.ts
+#EXTINF:-1,(GR) Cosmote Sport 7 HD
+http://p.dtv.sx:80/live/visiontv/775142/19787.ts
+#EXTINF:-1,(GR) Cosmote Cinema 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/19779.ts
+#EXTINF:-1,(GR) Cosmote Cinema 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/19778.ts
+#EXTINF:-1,(GR) Cosmote Cinema 3
+http://p.dtv.sx:80/live/visiontv/775142/19777.ts
+#EXTINF:-1,(GR) Cosmote Cinema 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19776.ts
+#EXTINF:-1,(GR) Village Cinema HD
+http://p.dtv.sx:80/live/visiontv/775142/19775.ts
+#EXTINF:-1,(GR) TCM HD
+http://p.dtv.sx:80/live/visiontv/775142/19773.ts
+#EXTINF:-1,(GR) National Geographic HD
+http://p.dtv.sx:80/live/visiontv/775142/19772.ts
+#EXTINF:-1,(GR) Nat Geo Wild HD
+http://p.dtv.sx:80/live/visiontv/775142/19771.ts
+#EXTINF:-1,(GR) BBC Earth HD
+http://p.dtv.sx:80/live/visiontv/775142/19770.ts
+#EXTINF:-1,(GR) Cosmote History HD
+http://p.dtv.sx:80/live/visiontv/775142/19769.ts
+#EXTINF:-1,(GR) Outdoor Channel HD
+http://p.dtv.sx:80/live/visiontv/775142/19768.ts
+#EXTINF:-1,(GR) Food Network HD
+http://p.dtv.sx:80/live/visiontv/775142/19767.ts
+#EXTINF:-1,(GR) Fine Living HD
+http://p.dtv.sx:80/live/visiontv/775142/19766.ts
+#EXTINF:-1,(GR) Nickelodeon HD
+http://p.dtv.sx:80/live/visiontv/775142/19765.ts
+#EXTINF:-1,(GR) Disney Junior
+http://p.dtv.sx:80/live/visiontv/775142/19764.ts
+#EXTINF:-1,(GR) MAD Hits HD
+http://p.dtv.sx:80/live/visiontv/775142/19763.ts
+#EXTINF:-1,(GR) Fox HD
+http://p.dtv.sx:80/live/visiontv/775142/17357.ts
+#EXTINF:-1,(GR) Fox Life HD
+http://p.dtv.sx:80/live/visiontv/775142/17356.ts
+#EXTINF:-1,(GR) Open Beyond HD
+http://p.dtv.sx:80/live/visiontv/775142/17352.ts
+#EXTINF:-1,(GR) Travel Channel HD
+http://p.dtv.sx:80/live/visiontv/775142/17349.ts
+#EXTINF:-1,(GR) Tv 100
+http://p.dtv.sx:80/live/visiontv/775142/17344.ts
+#EXTINF:-1,(GR) Ionian TV
+http://p.dtv.sx:80/live/visiontv/775142/17343.ts
+#EXTINF:-1,Özgür Dünya
+http://dsip.xyz:8080/movie/onurev/testev/35730.mkv
+#EXTINF:-1,Cinar Agaci
+http://dsip.xyz:8080/movie/onurev/testev/35278.mp4
+#EXTINF:-1,lü.Gelin
+http://smip.tv:8080/movie/onurtest/onu1984/5122.mp4
+#EXTINF:-1,anakkale 1915
+http://smip.tv:8080/movie/onurtest/onu1984/5121.mp4
+#EXTINF:-1,Yedi.Evlat.Iki.Damat
+http://smip.tv:8080/movie/onurtest/onu1984/5120.mp4
+#EXTINF:-1,Yasemin
+http://smip.tv:8080/movie/onurtest/onu1984/5119.mp4
+#EXTINF:-1,Yahsi.Bati
+http://smip.tv:8080/movie/onurtest/onu1984/5118.mp4
+#EXTINF:-1,Vizontele
+http://smip.tv:8080/movie/onurtest/onu1984/5117.mp4
+#EXTINF:-1,Vezir.Parmagi
+http://smip.tv:8080/movie/onurtest/onu1984/5116.mp4
+#EXTINF:-1,Veda
+http://smip.tv:8080/movie/onurtest/onu1984/5115.mp4
+#EXTINF:-1,Ulak
+http://smip.tv:8080/movie/onurtest/onu1984/5114.mp4
+#EXTINF:-1,Su ve Ates
+http://smip.tv:8080/movie/onurtest/onu1984/5113.mp4
+#EXTINF:-1,Son.Osmanli.Yandim.Ali
+http://smip.tv:8080/movie/onurtest/onu1984/5112.mp4
+#EXTINF:-1,Sessizlik
+http://smip.tv:8080/movie/onurtest/onu1984/5111.mp4
+#EXTINF:-1,Sarmasik
+http://smip.tv:8080/movie/onurtest/onu1984/5110.mp4
+#EXTINF:-1,Rus.Gelin
+http://smip.tv:8080/movie/onurtest/onu1984/5109.mp4
+#EXTINF:-1,Pek.Yakinda
+http://smip.tv:8080/movie/onurtest/onu1984/5108.mp4
+#EXTINF:-1,Pardon
+http://smip.tv:8080/movie/onurtest/onu1984/5107.mp4
+#EXTINF:-1,Osman Pazarlama
+http://smip.tv:8080/movie/onurtest/onu1984/5106.mp4
+#EXTINF:-1,Organize.Isler
+http://smip.tv:8080/movie/onurtest/onu1984/5105.mp4
+#EXTINF:-1,Olur.Olur
+http://smip.tv:8080/movie/onurtest/onu1984/5104.mp4
+#EXTINF:-1,Olur.Insallah
+http://smip.tv:8080/movie/onurtest/onu1984/5103.mp4
+#EXTINF:-1,Oflu.Hoca
+http://smip.tv:8080/movie/onurtest/onu1984/5102.mp4
+#EXTINF:-1,New.York.ta.5.Minare
+http://smip.tv:8080/movie/onurtest/onu1984/5101.mp4
+#EXTINF:-1,Neredesin.Firuze
+http://smip.tv:8080/movie/onurtest/onu1984/5100.mp4
+#EXTINF:-1,Nefes.Vatan.Sagolsun
+http://smip.tv:8080/movie/onurtest/onu1984/5099.mp4
+#EXTINF:-1,Memleket Meselesi
+http://smip.tv:8080/movie/onurtest/onu1984/5098.mp4
+#EXTINF:-1,Maskeli.Besler.Kibris
+http://smip.tv:8080/movie/onurtest/onu1984/5097.mp4
+#EXTINF:-1,Maskeli.Besler-Irak
+http://smip.tv:8080/movie/onurtest/onu1984/5096.mp4
+#EXTINF:-1,Kutsal.Damacana2
+http://smip.tv:8080/movie/onurtest/onu1984/5095.mp4
+#EXTINF:-1,Kutsal.Damacana
+http://smip.tv:8080/movie/onurtest/onu1984/5094.mp4
+#EXTINF:-1,Kucuk.Ortak
+http://smip.tv:8080/movie/onurtest/onu1984/5093.mp4
+#EXTINF:-1,Krallar Kulubu
+http://smip.tv:8080/movie/onurtest/onu1984/5092.mp4
+#EXTINF:-1,Kolpacino
+http://smip.tv:8080/movie/onurtest/onu1984/5091.mp4
+#EXTINF:-1,Kolpacino-Bomba
+http://smip.tv:8080/movie/onurtest/onu1984/5090.mp4
+#EXTINF:-1,Kendime.Iyi.Bak
+http://smip.tv:8080/movie/onurtest/onu1984/5089.mp4
+#EXTINF:-1,Kaybedenler.Kulübü
+http://smip.tv:8080/movie/onurtest/onu1984/5088.mp4
+#EXTINF:-1,Kabadayi
+http://smip.tv:8080/movie/onurtest/onu1984/5087.mp4
+#EXTINF:-1,Issiz.Adam
+http://smip.tv:8080/movie/onurtest/onu1984/5086.mp4
+#EXTINF:-1,Insaat.2
+http://smip.tv:8080/movie/onurtest/onu1984/5085.mp4
+#EXTINF:-1,Iftarlik.Gazoz
+http://smip.tv:8080/movie/onurtest/onu1984/5084.mp4
+#EXTINF:-1,Huddam
+http://smip.tv:8080/movie/onurtest/onu1984/5083.mp4
+#EXTINF:-1,Herkes.mi.Aldatir
+http://smip.tv:8080/movie/onurtest/onu1984/5082.mp4
+#EXTINF:-1,Her.Sey.Çok.Güzel.Olacak
+http://smip.tv:8080/movie/onurtest/onu1984/5081.mp4
+#EXTINF:-1,Hayat.Bayram.Olsa
+http://smip.tv:8080/movie/onurtest/onu1984/5080.mp4
+#EXTINF:-1,Hacivat.Karagöz.Neden.Öldürüldü
+http://smip.tv:8080/movie/onurtest/onu1984/5079.mp4
+#EXTINF:-1,Hababam.Sinifi.Üç.Buçuk
+http://smip.tv:8080/movie/onurtest/onu1984/5078.mp4
+#EXTINF:-1,GORA
+http://smip.tv:8080/movie/onurtest/onu1984/5077.mp4
+#EXTINF:-1,Gemide
+http://smip.tv:8080/movie/onurtest/onu1984/5076.mp4
+#EXTINF:-1,Fetih 1453
+http://smip.tv:8080/movie/onurtest/onu1984/5075.mp4
+#EXTINF:-1,Evim.Sensin
+http://smip.tv:8080/movie/onurtest/onu1984/5074.mp4
+#EXTINF:-1,Eskiya
+http://smip.tv:8080/movie/onurtest/onu1984/5073.mp4
+#EXTINF:-1,Enes.Batur-Gerçek.Kahraman
+http://smip.tv:8080/movie/onurtest/onu1984/5072.mkv
+#EXTINF:-1,Devrim.Arabalari
+http://smip.tv:8080/movie/onurtest/onu1984/5071.mp4
+#EXTINF:-1,Destere
+http://smip.tv:8080/movie/onurtest/onu1984/5070.mp4
+#EXTINF:-1,Deli.Ask
+http://smip.tv:8080/movie/onurtest/onu1984/5069.mp4
+#EXTINF:-1,Dedemin.Insanlari
+http://smip.tv:8080/movie/onurtest/onu1984/5068.mp4
+#EXTINF:-1,Dansoz
+http://smip.tv:8080/movie/onurtest/onu1984/5067.mp4
+#EXTINF:-1,Ceberrut
+http://smip.tv:8080/movie/onurtest/onu1984/5066.mp4
+#EXTINF:-1,Carsi Pazar
+http://smip.tv:8080/movie/onurtest/onu1984/5065.mp4
+#EXTINF:-1,Calgi.Cengi
+http://smip.tv:8080/movie/onurtest/onu1984/5064.mp4
+#EXTINF:-1,Bana.Bir.Soygun.Yaz
+http://smip.tv:8080/movie/onurtest/onu1984/5063.mp4
+#EXTINF:-1,Babam.ve.Oglum
+http://smip.tv:8080/movie/onurtest/onu1984/5062.mp4
+#EXTINF:-1,Baba.Mirasi
+http://smip.tv:8080/movie/onurtest/onu1984/5061.mp4
+#EXTINF:-1,AzazilDugum
+http://smip.tv:8080/movie/onurtest/onu1984/5060.mp4
+#EXTINF:-1,Azazil2Buyu
+http://smip.tv:8080/movie/onurtest/onu1984/5059.mp4
+#EXTINF:-1,Av.Mevsimi
+http://smip.tv:8080/movie/onurtest/onu1984/5058.mp4
+#EXTINF:-1,Araf
+http://smip.tv:8080/movie/onurtest/onu1984/5057.mp4
+#EXTINF:-1,Anadolu.Kartallari
+http://smip.tv:8080/movie/onurtest/onu1984/5056.mp4
+#EXTINF:-1,Ali.Baba.ve.7.Cüceler
+http://smip.tv:8080/movie/onurtest/onu1984/5055.mp4
+#EXTINF:-1,AlametiKiyametTarikat
+http://smip.tv:8080/movie/onurtest/onu1984/5054.mp4
+#EXTINF:-1,Abuzer.Kadayif
+http://smip.tv:8080/movie/onurtest/onu1984/5053.mp4
+#EXTINF:-1,A.R.O.G
+http://smip.tv:8080/movie/onurtest/onu1984/5052.mp4
+#EXTINF:-1,12.Yillik.Esaret
+http://smip.tv:8080/movie/onurtest/onu1984/5051.mp4
+#EXTINF:-1,Ucharflilerhabis
+http://smip.tv:8080/movie/onurtest/onu1984/5050.mp4
+#EXTINF:-1,Zengin Kismet
+http://smip.tv:8080/movie/onurtest/onu1984/5034.mkv
+#EXTINF:-1,Yeni Baslayanlar icin Hayatta Kalma Sanati 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5033.mkv
+#EXTINF:-1,Yasamak Guzel Sey 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5032.mkv
+#EXTINF:-1,Vurun Kahpeye
+http://smip.tv:8080/movie/onurtest/onu1984/5030.mp4
+#EXTINF:-1,Ver Kac
+http://smip.tv:8080/movie/onurtest/onu1984/5029.mp4
+#EXTINF:-1,Tatlim Tatlim 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5028.mkv
+#EXTINF:-1,SusieninUmudu
+http://smip.tv:8080/movie/onurtest/onu1984/5027.mkv
+#EXTINF:-1,Sonsuz Ask 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5025.mkv
+#EXTINF:-1,Sinsiran Yasa kAsk 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5024.mp4
+#EXTINF:-1,Recep Ivedik 5
+http://smip.tv:8080/movie/onurtest/onu1984/5023.mp4
+#EXTINF:-1,Recep Ivedik 4
+http://smip.tv:8080/movie/onurtest/onu1984/5022.mp4
+#EXTINF:-1,Recep Ivedik 3
+http://smip.tv:8080/movie/onurtest/onu1984/5021.mp4
+#EXTINF:-1,Recep Ivedik 1
+http://smip.tv:8080/movie/onurtest/onu1984/5020.mp4
+#EXTINF:-1,Poyraz Karayel Kuresel Sermaye
+http://smip.tv:8080/movie/onurtest/onu1984/5019.mkv
+#EXTINF:-1,Parayi Bulduk 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5018.mkv
+#EXTINF:-1,Olmaz Boyle Sey 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5017.mkv
+#EXTINF:-1,Olanlar Oldu 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5016.mkv
+#EXTINF:-1,Mezarci - 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5015.mkv
+#EXTINF:-1,Kucuk Ortak 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5014.mkv
+#EXTINF:-1,Kotu Cocuk 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5013.mkv
+#EXTINF:-1,Ketenpere 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5012.mkv
+#EXTINF:-1,Kara Buyu
+http://smip.tv:8080/movie/onurtest/onu1984/5011.mp4
+#EXTINF:-1,Kan Kardesler 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5010.mkv
+#EXTINF:-1,Hep Yek 2
+http://smip.tv:8080/movie/onurtest/onu1984/5008.mp4
+#EXTINF:-1,Hep Yek 2 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5007.mkv
+#EXTINF:-1,Hababam Sinifi Askerde
+http://smip.tv:8080/movie/onurtest/onu1984/5006.mp4
+#EXTINF:-1,GenclikBasimdaDuman
+http://smip.tv:8080/movie/onurtest/onu1984/5005.mp4
+#EXTINF:-1,Donerse Senindir 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5004.mkv
+#EXTINF:-1,Deli Ask 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5003.mkv
+#EXTINF:-1,Degistir Bakalim 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5002.mkv
+#EXTINF:-1,Dargin Kuzenler 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5001.mkv
+#EXTINF:-1,Cingoz Recai 2017
+http://smip.tv:8080/movie/onurtest/onu1984/5000.mkv
+#EXTINF:-1,Cenaze Isleri 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4999.mkv
+#EXTINF:-1,Calgi Cengi 2
+http://smip.tv:8080/movie/onurtest/onu1984/4998.mkv
+#EXTINF:-1,Boluk 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4997.mkv
+#EXTINF:-1,Bizim Aile
+http://smip.tv:8080/movie/onurtest/onu1984/4996.mp4
+#EXTINF:-1,Bas Belasi
+http://smip.tv:8080/movie/onurtest/onu1984/4995.mp4
+#EXTINF:-1,BahtiyarBahtikara
+http://smip.tv:8080/movie/onurtest/onu1984/4994.mkv
+#EXTINF:-1,Babasi 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4993.mkv
+#EXTINF:-1,Ah Güzel Istanbul
+http://smip.tv:8080/movie/onurtest/onu1984/4992.mp4
+#EXTINF:-1,4N 1K 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4991.mkv
+#EXTINF:-1,Yol Arkadasim 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4990.mkv
+#EXTINF:-1,Yanlis Anlama - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4989.mkv
+#EXTINF:-1,Yalanci Damat - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4988.mkv
+#EXTINF:-1,Sosyetik Gelin - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4987.mkv
+#EXTINF:-1,Sinyalciler 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4986.mkv
+#EXTINF:-1,Siccin 4 - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4985.mkv
+#EXTINF:-1,Seni Gidi Seni 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4984.mkv
+#EXTINF:-1,Salur Kazan: Zoraki Kahraman 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4983.mkv
+#EXTINF:-1,Ruzgar 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4982.mkv
+#EXTINF:-1,Oteki Taraf 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4981.mkv
+#EXTINF:-1,Olumlu Dunya - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4980.mkv
+#EXTINF:-1,Martilerin Efendisi 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4979.mkv
+#EXTINF:-1,Maide'nin Altin Gunu 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4978.mkv
+#EXTINF:-1,Korfez 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4977.mkv
+#EXTINF:-1,Kolonya Cumhuriyeti 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4976.mkv
+#EXTINF:-1,Kelebekler - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4975.mkv
+#EXTINF:-1,Kardesim icin der 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4974.mkv
+#EXTINF:-1,Gorunen Adam
+http://smip.tv:8080/movie/onurtest/onu1984/4973.mkv
+#EXTINF:-1,Gorevimiz Tatil - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4972.mkv
+#EXTINF:-1,Gocebe 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4971.mkv
+#EXTINF:-1,Gecmisteki Sir 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4970.mkv
+#EXTINF:-1,Eski Sevgili 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4969.mkv
+#EXTINF:-1,Enes Batur: Hayal mi Gercek mi?
+http://smip.tv:8080/movie/onurtest/onu1984/4968.mkv
+#EXTINF:-1,Dunyanin En Guzel Kokusu 2 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4967.mkv
+#EXTINF:-1,Dugum Salonu - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4966.mkv
+#EXTINF:-1,Deliha 2 - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4965.mkv
+#EXTINF:-1,Cam Yarmasi
+http://smip.tv:8080/movie/onurtest/onu1984/4964.mkv
+#EXTINF:-1,Cakallara Dans 4 - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4963.mkv
+#EXTINF:-1,Bizim Koyun Sarkisi 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4962.mkv
+#EXTINF:-1,Bittin Sen 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4961.mkv
+#EXTINF:-1,Bir Nefes Yeter 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4960.mkv
+#EXTINF:-1,Bezmi Elem 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4959.mkv
+#EXTINF:-1,Benden Bu Kadar - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4958.mkv
+#EXTINF:-1,Ayla
+http://smip.tv:8080/movie/onurtest/onu1984/4957.mkv
+#EXTINF:-1,Astroloji 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4956.mkv
+#EXTINF:-1,Ask Uykusu 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4955.mkv
+#EXTINF:-1,ARIF v 216 - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4954.mkv
+#EXTINF:-1,Ailecek Sakiniz - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4953.mkv
+#EXTINF:-1,Aile Arasinda 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4952.mkv
+#EXTINF:-1,Uc Harfliler Beddua
+http://smip.tv:8080/movie/onurtest/onu1984/4951.mkv
+#EXTINF:-1,Trilece
+http://smip.tv:8080/movie/onurtest/onu1984/4950.mkv
+#EXTINF:-1,Tecahul-i Arif
+http://smip.tv:8080/movie/onurtest/onu1984/4949.mkv
+#EXTINF:-1,Tatli Bela
+http://smip.tv:8080/movie/onurtest/onu1984/4948.mkv
+#EXTINF:-1,Siccin 5 - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4947.mkv
+#EXTINF:-1,Sen Kiminle Dans Ediyorsun
+http://smip.tv:8080/movie/onurtest/onu1984/4946.mkv
+#EXTINF:-1,Organik Ask 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4945.mkv
+#EXTINF:-1,Oflu Hoca Trakya'da
+http://smip.tv:8080/movie/onurtest/onu1984/4944.mkv
+#EXTINF:-1,Nasil Yani
+http://smip.tv:8080/movie/onurtest/onu1984/4943.mkv
+#EXTINF:-1,Kizim ve Ben - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4942.mkv
+#EXTINF:-1,Kiz Babasi 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4941.mkv
+#EXTINF:-1,Istanbul'un Gozu A.K.A.
+http://smip.tv:8080/movie/onurtest/onu1984/4940.mkv
+#EXTINF:-1,Iki iyi Cocuk
+http://smip.tv:8080/movie/onurtest/onu1984/4939.mkv
+#EXTINF:-1,Hurkus Goklerdeki Kahraman - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4938.mkv
+#EXTINF:-1,Halef
+http://smip.tv:8080/movie/onurtest/onu1984/4937.mkv
+#EXTINF:-1,Hadi Be Oglum - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4936.mkv
+#EXTINF:-1,Guzel Adam Sureyya
+http://smip.tv:8080/movie/onurtest/onu1984/4935.mkv
+#EXTINF:-1,Guvercin
+http://smip.tv:8080/movie/onurtest/onu1984/4934.mkv
+#EXTINF:-1,Gurbuz: Hadi Allah'a Emanet
+http://smip.tv:8080/movie/onurtest/onu1984/4933.mkv
+#EXTINF:-1,Gercek Kesit
+http://smip.tv:8080/movie/onurtest/onu1984/4932.mkv
+#EXTINF:-1,Facia Uclu - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4931.mkv
+#EXTINF:-1,Eski Koye Yeni Adet
+http://smip.tv:8080/movie/onurtest/onu1984/4930.mkv
+#EXTINF:-1,Damat Takimi - 2017
+http://smip.tv:8080/movie/onurtest/onu1984/4929.mkv
+#EXTINF:-1,Daha - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4928.mkv
+#EXTINF:-1,Cetrefilli - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4927.mkv
+#EXTINF:-1,Cebimdeki Yabanci 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4926.mkv
+#EXTINF:-1,Can Feda - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4925.mkv
+#EXTINF:-1,Canavar Gibi Turk 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4924.mkv
+#EXTINF:-1,Bucur
+http://smip.tv:8080/movie/onurtest/onu1984/4923.mkv
+#EXTINF:-1,Biz Size Doneriz - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4922.mkv
+#EXTINF:-1,Bizans Oyunlari
+http://smip.tv:8080/movie/onurtest/onu1984/4921.mkv
+#EXTINF:-1,Bende Kal
+http://smip.tv:8080/movie/onurtest/onu1984/4920.mkv
+#EXTINF:-1,Batlir
+http://smip.tv:8080/movie/onurtest/onu1984/4919.mkv
+#EXTINF:-1,Babamin Ceketi
+http://smip.tv:8080/movie/onurtest/onu1984/4918.mkv
+#EXTINF:-1,Arapsaci - 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4917.mkv
+#EXTINF:-1,Anamiz Var 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4916.mkv
+#EXTINF:-1,Ahlat Agaci 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4915.mkv
+#EXTINF:-1,Aglak Arif 2018
+http://smip.tv:8080/movie/onurtest/onu1984/4914.mkv
+#EXTINF:-1,Hokkabaz
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/27657.mkv
+#EXTINF:-1,Yalan Dolan
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/24552.mkv
+#EXTINF:-1,Zohak 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/15181.mkv
+#EXTINF:-1,Yanimda Kal 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14786.mkv
+#EXTINF:-1,Aşk Bu Mu
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14785.mkv
+#EXTINF:-1,Cin Tepesi 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14377.mkv
+#EXTINF:-1,Kesif 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14376.mkv
+#EXTINF:-1,Murtaza
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14383.mkv
+#EXTINF:-1,Dar Elbise
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14379.mkv
+#EXTINF:-1,Deniz ve Gunes 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14333.mkv
+#EXTINF:-1,4N1K 2 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14332.mkv
+#EXTINF:-1,Taksim Holdem
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14334.mkv
+#EXTINF:-1,Borc Harc 2019
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14301.mkv
+#EXTINF:-1,Hababam 2019
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14287.mkv
+#EXTINF:-1,Guven 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/14288.mkv
+#EXTINF:-1,Musabbar 2019
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/13965.mkv
+#EXTINF:-1,Borc 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/13964.mkv
+#EXTINF:-1,Bir Ask Iki Hayat 2019
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/13792.mkv
+#EXTINF:-1,Arada 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/12888.mkv
+#EXTINF:-1,Muslum 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/10699.mkv
+#EXTINF:-1,Deliler 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/10680.mkv
+#EXTINF:-1,Cicero 2018
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/10653.mkv
+#EXTINF:-1,Bebek Geliyorum Demez
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6850.mkv
+#EXTINF:-1,Bizim Icin Sampiyon - 2019
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6838.mkv
+#EXTINF:-1,Firardayiz
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6792.mkv
+#EXTINF:-1,Cocuklar Sana Emanet
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6764.mkv
+#EXTINF:-1,Gecmisin Bedeli
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6738.mkv
+#EXTINF:-1,Her Sey Seninle Guzel
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6708.mkv
+#EXTINF:-1,Boru
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6698.mkv
+#EXTINF:-1,Benzersiz
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6699.mkv
+#EXTINF:-1,Damat Kogusu
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6700.mkv
+#EXTINF:-1,ZOR OYUN: Kapanmayan Hesap
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6701.mkv
+#EXTINF:-1,Hedefim Sensin
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6638.mkv
+#EXTINF:-1,Goktasi
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6632.mkv
+#EXTINF:-1,Hep Yek 3
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6562.mkv
+#EXTINF:-1,Organize Isler 2 Sazan Sarmalı
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6532.mkv
+#EXTINF:-1,Iyi Oyun
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6552.mkv
+#EXTINF:-1,Son Cikis
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6485.mkv
+#EXTINF:-1,Mezeci Ciragi
+http://dsip.tv:8080/movie/coustmer-panel1/ondbzyPZFl/6490.mkv
+#EXTINF:-1,XXX-VIP: DORCEL HD
+http://smip.tv:8080/onurtest/onu1984/6795
+#EXTINF:-1,XXX-VIP: HOT
+http://smip.tv:8080/onurtest/onu1984/6796
+#EXTINF:-1,XXX-VIP: HUSTLER HD
+http://smip.tv:8080/onurtest/onu1984/6797
+#EXTINF:-1,XXX-VIP: PASSIONXXX
+http://smip.tv:8080/onurtest/onu1984/6798
+#EXTINF:-1,XXX-VIP: PENTHOUSE HD
+http://smip.tv:8080/onurtest/onu1984/6799
+#EXTINF:-1,XXX-VIP: PENTHOUSE 2 HD
+http://smip.tv:8080/onurtest/onu1984/6800
+#EXTINF:-1,XXX-VIP: PINK O TV
+http://smip.tv:8080/onurtest/onu1984/6801
+#EXTINF:-1,XXX-VIP: Private TV HD
+http://smip.tv:8080/onurtest/onu1984/6802
+#EXTINF:-1,XXX-VIP: REDLiGHT HD
+http://smip.tv:8080/onurtest/onu1984/6803
+#EXTINF:-1,XXX-VIP: SCT
+http://smip.tv:8080/onurtest/onu1984/6804
+#EXTINF:-1,XXX-VIP: VIVID RED HD
+http://smip.tv:8080/onurtest/onu1984/6805
+#EXTINF:-1,XXX-VIP: XXL
+http://smip.tv:8080/onurtest/onu1984/6806
+#EXTINF:-1,XXX | SUPERONE TV
+http://smip.tv:8080/onurtest/onu1984/6807
+#EXTINF:-1,XXX | DUSK
+http://smip.tv:8080/onurtest/onu1984/6808
+#EXTINF:-1,XXX | SEXT6SENSO HD
+http://smip.tv:8080/onurtest/onu1984/6809
+#EXTINF:-1,XXX: Anal 1
+http://smip.tv:8080/onurtest/onu1984/6810
+#EXTINF:-1,XXX: Anal 2
+http://smip.tv:8080/onurtest/onu1984/6811
+#EXTINF:-1,XXX: Anal 3
+http://smip.tv:8080/onurtest/onu1984/6812
+#EXTINF:-1,XXX: Big Tits 1
+http://smip.tv:8080/onurtest/onu1984/6813
+#EXTINF:-1,XXX: Big Tits 2
+http://smip.tv:8080/onurtest/onu1984/6814
+#EXTINF:-1,XXX: Big Tits 3
+http://smip.tv:8080/onurtest/onu1984/6815
+#EXTINF:-1,XXX: Blue Hustler HD
+http://smip.tv:8080/onurtest/onu1984/6816
+#EXTINF:-1,XXX: Casting 1
+http://smip.tv:8080/onurtest/onu1984/6817
+#EXTINF:-1,XXX: Casting 2
+http://smip.tv:8080/onurtest/onu1984/6818
+#EXTINF:-1,XXX: Casting 3
+http://smip.tv:8080/onurtest/onu1984/6819
+#EXTINF:-1,XXX: Casting 4
+http://smip.tv:8080/onurtest/onu1984/6820
+#EXTINF:-1,XXX: Casting 5
+http://smip.tv:8080/onurtest/onu1984/6821
+#EXTINF:-1,XXX: Ebony 1
+http://smip.tv:8080/onurtest/onu1984/6822
+#EXTINF:-1,XXX: Ebony 2
+http://smip.tv:8080/onurtest/onu1984/6823
+#EXTINF:-1,XXX: Ebony 3
+http://smip.tv:8080/onurtest/onu1984/6824
+#EXTINF:-1,XXX: Erox HD
+http://smip.tv:8080/onurtest/onu1984/6825
+#EXTINF:-1,XXX: Group Sex 1
+http://smip.tv:8080/onurtest/onu1984/6826
+#EXTINF:-1,XXX: Group Sex 2
+http://smip.tv:8080/onurtest/onu1984/6827
+#EXTINF:-1,XXX: Group Sex 3
+http://smip.tv:8080/onurtest/onu1984/6828
+#EXTINF:-1,XXX: Hot Club 1 FHD
+http://smip.tv:8080/onurtest/onu1984/6829
+#EXTINF:-1,XXX: Hot Club 10 FHD
+http://smip.tv:8080/onurtest/onu1984/6830
+#EXTINF:-1,XXX: X-MO
+http://smip.tv:8080/onurtest/onu1984/6831
+#EXTINF:-1,XXX: Balkan Erotic
+http://smip.tv:8080/onurtest/onu1984/6832
+#EXTINF:-1,XXX: Mia Khalifa FHD
+http://smip.tv:8080/onurtest/onu1984/6833
+#EXTINF:-1,XXX: Hot Club 2 FHD
+http://smip.tv:8080/onurtest/onu1984/6834
+#EXTINF:-1,XXX: Hot Club 3 FHD
+http://smip.tv:8080/onurtest/onu1984/6835
+#EXTINF:-1,XXX: Hot Club 4 FHD
+http://smip.tv:8080/onurtest/onu1984/6836
+#EXTINF:-1,XXX: Hot Club 5 FHD
+http://smip.tv:8080/onurtest/onu1984/6837
+#EXTINF:-1,XXX: Hot Club 6 FHD
+http://smip.tv:8080/onurtest/onu1984/6838
+#EXTINF:-1,XXX: Hot Club 7 FHD
+http://smip.tv:8080/onurtest/onu1984/6839
+#EXTINF:-1,XXX: Hot Club 8 FHD
+http://smip.tv:8080/onurtest/onu1984/6840
+#EXTINF:-1,XXX: Hot Club 9 FHD
+http://smip.tv:8080/onurtest/onu1984/6841
+#EXTINF:-1,XXX: Lesbian 1
+http://smip.tv:8080/onurtest/onu1984/6842
+#EXTINF:-1,XXX: Lesbian 2
+http://smip.tv:8080/onurtest/onu1984/6843
+#EXTINF:-1,XXX: Lesbian 3
+http://smip.tv:8080/onurtest/onu1984/6844
+#EXTINF:-1,XXX: Mature 1
+http://smip.tv:8080/onurtest/onu1984/6845
+#EXTINF:-1,XXX: Mature 2
+http://smip.tv:8080/onurtest/onu1984/6846
+#EXTINF:-1,XXX: Mature 3
+http://smip.tv:8080/onurtest/onu1984/6847
+#EXTINF:-1,XXX: Max XXX 2 HD
+http://smip.tv:8080/onurtest/onu1984/6848
+#EXTINF:-1,XXX: Max XXX HD
+http://smip.tv:8080/onurtest/onu1984/6849
+#EXTINF:-1,XXX: MILF 1
+http://smip.tv:8080/onurtest/onu1984/6850
+#EXTINF:-1,XXX: MILF 2
+http://smip.tv:8080/onurtest/onu1984/6851
+#EXTINF:-1,XXX: MILF 3
+http://smip.tv:8080/onurtest/onu1984/6852
+#EXTINF:-1,XXX: Pink Erotic 1 HD
+http://smip.tv:8080/onurtest/onu1984/6853
+#EXTINF:-1,XXX: Pink Erotic 2 HD
+http://smip.tv:8080/onurtest/onu1984/6854
+#EXTINF:-1,XXX: Pink Erotic 3 HD
+http://smip.tv:8080/onurtest/onu1984/6855
+#EXTINF:-1,XXX: Pink Erotic 4 HD
+http://smip.tv:8080/onurtest/onu1984/6856
+#EXTINF:-1,XXX: Pink Erotic 5 HD
+http://smip.tv:8080/onurtest/onu1984/6857
+#EXTINF:-1,XXX: Pink Erotic 6 HD
+http://smip.tv:8080/onurtest/onu1984/6858
+#EXTINF:-1,XXX: Pink Erotic 7 HD
+http://smip.tv:8080/onurtest/onu1984/6859
+#EXTINF:-1,XXX: Pink Erotic 8 HD
+http://smip.tv:8080/onurtest/onu1984/6860
+#EXTINF:-1,XXX: Playboy TV Europe
+http://smip.tv:8080/onurtest/onu1984/6861
+#EXTINF:-1,XXX: Sext6Senso
+http://smip.tv:8080/onurtest/onu1984/6862
+#EXTINF:-1,XXX: Teens 1
+http://smip.tv:8080/onurtest/onu1984/6863
+#EXTINF:-1,XXX: Teens 2
+http://smip.tv:8080/onurtest/onu1984/6864
+#EXTINF:-1,XXX: Teens 3
+http://smip.tv:8080/onurtest/onu1984/6865
+#EXTINF:-1,XXX: Teens 4
+http://smip.tv:8080/onurtest/onu1984/6866
+#EXTINF:-1,XXX: VIP-CZECH STREETS FHD 1080p
+http://smip.tv:8080/onurtest/onu1984/6867
+#EXTINF:-1,XXX: VIP-Fake Taxi FHD 1080p
+http://smip.tv:8080/onurtest/onu1984/6868
+#EXTINF:-1,XXX: VIP-TABOO HD
+http://smip.tv:8080/onurtest/onu1984/6869
+#EXTINF:-1,XXX: Erox HD (18 )
+http://smip.tv:8080/onurtest/onu1984/6870
+#EXTINF:-1,XXX: VIP-MOFOS FHD 1080p
+http://smip.tv:8080/onurtest/onu1984/6871
+#EXTINF:-1,XXX: Reality Kings (18 )
+http://smip.tv:8080/onurtest/onu1984/6872
+#EXTINF:-1,XXX: Vivid Europe HD
+http://smip.tv:8080/onurtest/onu1984/6873
+#EXTINF:-1,XXX: Vivid Red HD
+http://smip.tv:8080/onurtest/onu1984/6874
+#EXTINF:-1,|XXX| BABE 1 HD
+http://smip.tv:8080/onurtest/onu1984/6875
+#EXTINF:-1,|XXX| BABE 2 HD
+http://smip.tv:8080/onurtest/onu1984/6876
+#EXTINF:-1,|XXX| ALBA XXX 3
+http://smip.tv:8080/onurtest/onu1984/6877
+#EXTINF:-1,|XXX| ALBA XXX 2
+http://smip.tv:8080/onurtest/onu1984/6878
+#EXTINF:-1,|XXX| ALBA XXX
+http://smip.tv:8080/onurtest/onu1984/6879
+#EXTINF:-1,XXX: Moms Teach
+http://smip.tv:8080/onurtest/onu1984/6880
+#EXTINF:-1,XXX: Meidenvan Holland HARD
+http://smip.tv:8080/onurtest/onu1984/6881
+#EXTINF:-1,XXX: Penthouse Black
+http://smip.tv:8080/onurtest/onu1984/6882
+#EXTINF:-1,|XXX| Passie XXX (18 )
+http://smip.tv:8080/onurtest/onu1984/6883
+#EXTINF:-1,|XXX| FANTASY 1
+http://smip.tv:8080/onurtest/onu1984/6884
+#EXTINF:-1,|XXX| FANTASY 2
+http://smip.tv:8080/onurtest/onu1984/6885
+#EXTINF:-1,|XXX| FANTASY 3
+http://smip.tv:8080/onurtest/onu1984/6886
+#EXTINF:-1,|XXX| FANTASY 4
+http://smip.tv:8080/onurtest/onu1984/6887
+#EXTINF:-1,|XXX| FANTASY 5
+http://smip.tv:8080/onurtest/onu1984/6888
+#EXTINF:-1,|XXX| FANTASY 6
+http://smip.tv:8080/onurtest/onu1984/6889
+#EXTINF:-1,|XXX| Vivid TV Europe
+http://smip.tv:8080/onurtest/onu1984/6890
+#EXTINF:-1,|XXX| PRIVE TV
+http://smip.tv:8080/onurtest/onu1984/6891
+#EXTINF:-1,XX BANGBROS
+http://smip.tv:8080/onurtest/onu1984/6701
+#EXTINF:-1,XX EROTIC 1
+http://smip.tv:8080/onurtest/onu1984/6702
+#EXTINF:-1,18:XY Mix HD (18 )
+http://smip.tv:8080/onurtest/onu1984/6771
