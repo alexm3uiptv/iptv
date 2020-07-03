@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,Smash 1080p
+http://s3.smashmalta.com:82/live/smash/smash/5.ts
+#EXTINF:-1,Smash 720p
+http://s3.smashmalta.com:82/live/smash/smash/6.ts
+#EXTINF:-1,Smash 7 News 1080p
+http://s3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1,Smash 7 News 720p
+http://s3.smashmalta.com:82/live/smash/smash/32.ts
+#EXTINF:-1,TV Shop Channel 1080p
+http://s3.smashmalta.com:82/live/smash/smash/14.ts
+#EXTINF:-1,TV Shop Channel 720p
+http://s3.smashmalta.com:82/live/smash/smash/50.ts
+#EXTINF:-1,Smash Explore 1080p
+http://s3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1,Smash Explore 720P
+http://s3.smashmalta.com:82/live/smash/smash/58.ts
+#EXTINF:-1,Smash Music 1080p
+http://s3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1,Smash Music 720p
+http://s3.smashmalta.com:82/live/smash/smash/9.ts
+#EXTINF:-1,Smash Country 1080p
+http://s3.smashmalta.com:82/live/smash/smash/12.ts
+#EXTINF:-1,Smash Country 720p
+http://s3.smashmalta.com:82/live/smash/smash/13.ts
+#EXTINF:-1,Smash House of Rock 1080p
+http://s3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1,Smash House of Rock 720p
+http://s3.smashmalta.com:82/live/smash/smash/57.ts
+#EXTINF:-1,Smash Jazz 1080p
+http://s3.smashmalta.com:82/live/smash/smash/10.ts
+#EXTINF:-1,Smash Jazz 720p
+http://s3.smashmalta.com:82/live/smash/smash/11.ts
+#EXTINF:-1,Smash Retro 1080p
+http://s3.smashmalta.com:82/live/smash/smash/48.ts
+#EXTINF:-1,Smash Retro 720P
+http://s3.smashmalta.com:82/live/smash/smash/49.ts
+#EXTINF:-1,Smash Entertainment 1080p
+http://s3.smashmalta.com:82/live/smash/smash/27.ts
+#EXTINF:-1,Smash Entertainment 720p
+http://s3.smashmalta.com:82/live/smash/smash/28.ts
+#EXTINF:-1,Smash Food 1080p
+http://s3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1,Smash Food 720p
+http://s3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:-1,Smash Sports 1080p
+http://s3.smashmalta.com:82/live/smash/smash/17.ts
+#EXTINF:-1,Smash Sports 720p
+http://s3.smashmalta.com:82/live/smash/smash/18.ts
+#EXTINF:-1,Smash Politika 1080p
+http://s3.smashmalta.com:82/live/smash/smash/19.ts
+#EXTINF:-1,Smash Politika 720p
+http://s3.smashmalta.com:82/live/smash/smash/20.ts
+#EXTINF:-1,Smash Arabija1080P
+http://s3.smashmalta.com:82/live/smash/smash/26.ts
+#EXTINF:-1,Smash Cam 1080p
+http://s3.smashmalta.com:82/live/smash/smash/21.ts
+#EXTINF:-1,Smash Cam 720p
+http://s3.smashmalta.com:82/live/smash/smash/22.ts
+#EXTINF:-1,Smash Radio
+http://s3.smashmalta.com:82/live/smash/smash/35.ts
+#EXTINF:-1,Rock Radio
+http://s3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1,Alternative Radio
+http://s3.smashmalta.com:82/live/smash/smash/38.ts
+#EXTINF:-1,Retro Radio
+http://s3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1,Erga Lura 1080p
+http://s3.smashmalta.com:82/live/smash/smash/30.ts
+#EXTINF:-1,The River Christian Channel 720p
+http://s3.smashmalta.com:82/live/smash/smash/31.ts
+#EXTINF:-1,TVM HD
+http://s3.smashmalta.com:82/live/smash/smash/39.ts
+#EXTINF:-1,TVM 2 HD
+http://s3.smashmalta.com:82/live/smash/smash/40.ts
+#EXTINF:-1,ONE HD
+http://s3.smashmalta.com:82/live/smash/smash/33.ts
+#EXTINF:-1,NET HD
+http://s3.smashmalta.com:82/live/smash/smash/34.ts
+#EXTINF:-1,IT Italia 1
+http://s3.smashmalta.com:82/live/smash/smash/51.ts
+#EXTINF:-1,IT Canale 5
+http://s3.smashmalta.com:82/live/smash/smash/52.ts
+#EXTINF:-1,IT Rete 4
+http://s3.smashmalta.com:82/live/smash/smash/53.ts
+#EXTINF:-1,IT Rai 1
+http://s3.smashmalta.com:82/live/smash/smash/54.ts
+#EXTINF:-1,IT Rai 2
+http://s3.smashmalta.com:82/live/smash/smash/55.ts
+#EXTINF:-1,IT Rai 3
+http://s3.smashmalta.com:82/live/smash/smash/56.ts
