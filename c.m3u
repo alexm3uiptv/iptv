@@ -1,0 +1,160 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="News;Undefined",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="News;Undefined",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",HAWAS TV (1280×720)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AbuDhabiDrama.net" group-title="Undefined",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="Undefined",Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Citruss TV HD
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Undefined",Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Undefined",Dubai TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC3.net" group-title="Undefined",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC4.net" group-title="Undefined",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Undefined",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Undefined",National Geographic Abu Dhabi
+http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Noor Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Undefined",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="Undefined",Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="Undefined",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="Undefined",Sama Dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Toheed TV
+http://51.158.73.206/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="General;Undefined",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sport",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="General",Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="General",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AlArabiyaAlHadath.net" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Movies",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Movies",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC2.net" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC2.net" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",迪拜赛马俱乐部
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",迪拜赛车俱乐部
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
+
