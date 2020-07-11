@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Undefined",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Undefined",SHOW TV HD
+http://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Undefined",SHOW TV [HD]
+https://canli.ensonhaber.com/tr/showtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Undefined",SHOW TV [SD]
+http://94.46.195.170:9000/showtv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="o-tv" group-title="Undefined",OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="o-tv" group-title="Undefined",OTV
+http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="o-tv" group-title="Undefined",OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FutureTV.net" group-title="Undefined",Future TV
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",HBO_Signature
+http://mhiptv.com:8888/naeem/naeem123/4949?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",HBO_Zone
+http://mhiptv.com:8888/naeem/naeem123/4950?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Undefined",HBO
+http://mhiptv.com:8888/naeem/naeem123/4947?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Showtime_HD
+http://mhiptv.com:8888/naeem/naeem123/5012?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="disney" group-title="Undefined",Disney_Channel
+http://mhiptv.com:8888/naeem/naeem123/12381?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAX_East
+http://mhiptv.com:8888/naeem/naeem123/5003?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAX_West
+http://mhiptv.com:8888/naeem/naeem123/5004?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Food_Network
+http://mhiptv.com:8888/naeem/naeem123/2848?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",MTV_Music
+http://mhiptv.com:8888/naeem/naeem123/2840?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="E.uk" group-title="Undefined",E!
+http://mhiptv.com:8888/naeem/naeem123/4705?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Sci-Fi_SD
+http://mhiptv.com:8888/naeem/naeem123/2814?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Disney_HD
+http://mhiptv.com:8888/naeem/naeem123/2817?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Comedy_Central_Extra_SD
+http://mhiptv.com:8888/naeem/naeem123/2860?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Select_SD
+http://mhiptv.com:8888/naeem/naeem123/2852?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Comedy_SD
+http://mhiptv.com:8888/naeem/naeem123/2818?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Thriller_SD
+http://mhiptv.com:8888/naeem/naeem123/2813?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Action_SD
+http://mhiptv.com:8888/naeem/naeem123/2819?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SkyCinema_OSCARS
+http://mhiptv.com:8888/naeem/naeem123/2812?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sky_Cinema_Premiere_HD
+http://mhiptv.com:8888/naeem/naeem123/2823?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",True_Movies_SD
+http://mhiptv.com:8888/naeem/naeem123/2811?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_MOVIES_STARS_HD
+http://mhiptv.com:8888/naeem/naeem123/4002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_MOVIEMAX_FESTiVAL_HD
+http://mhiptv.com:8888/naeem/naeem123/3998?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_MOVIE_PREMIER_HD
+http://mhiptv.com:8888/naeem/naeem123/3999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BEIN_MOVIE_ACTION_HD
+http://mhiptv.com:8888/naeem/naeem123/3997?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",NEXTBOX_CINEMA_GERILIM
+http://mhiptv.com:8888/naeem/naeem123/3995?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="Music24.il" group-title="Music",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8?checkedby:iptvcat.com
+
