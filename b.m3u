@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Undefined",MELODY CHANNEL LATINO
+http://tvaz.top:80/arlan1/123456/71775?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="o-tv" group-title="Undefined",OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC TOP LATINO
+http://tvaz.top:80/arlan1/123456/71769?checkedby:iptvcat.com
+
