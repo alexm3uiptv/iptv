@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,LBC
+http://178.132.3.162:88/LBC_SAT/video.m3u8
+#EXTINF:-1,LBC
+https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
 #EXTINF:-1,alliptvlinks.com 84. Lawrence of Arabia 1962 #imdb
 http://rexshx.com:8080/movie/armintestdev/ibtqg2AJhC/19691.mkv
 #EXTINF:-1,alliptvlinks.com SE: Till Det Som Ar Vackert 2010 #ef
