@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1,NETFLIX ACTION
+http://178.63.48.23:25461/netott/nFu0mOB8pm/63
+#EXTINF:-1,Netflix Comedy
+http://178.63.48.23:25461/netott/nFu0mOB8pm/65
+#EXTINF:-1,NETFLIX ARABIC
+http://178.63.48.23:25461/netott/nFu0mOB8pm/66
+#EXTINF:-1,NETFLIX KIDS
+http://178.63.48.23:25461/netott/nFu0mOB8pm/67
+#EXTINF:-1,NETFLIX ASIA
+http://178.63.48.23:25461/netott/nFu0mOB8pm/68
+#EXTINF:-1,NETFLIX Thriller
+http://178.63.48.23:25461/netott/nFu0mOB8pm/69
+#EXTINF:-1,SHAHID ACTION
+http://178.63.48.23:25461/netott/nFu0mOB8pm/80
+#EXTINF:-1,SHAHID Horror
+http://178.63.48.23:25461/netott/nFu0mOB8pm/160
+#EXTINF:-1,SHAHID ACTION
+http://178.63.48.23:25461/netott/nFu0mOB8pm/161
+#EXTINF:-1,SHAHID Thriller
+http://178.63.48.23:25461/netott/nFu0mOB8pm/162
+#EXTINF:-1,SHAHID COMEDY
+http://178.63.48.23:25461/netott/nFu0mOB8pm/163
+#EXTINF:-1,SHAHID ARABIC
+http://178.63.48.23:25461/netott/nFu0mOB8pm/164
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC ",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC ",AR:MY-MBC 1 sd
