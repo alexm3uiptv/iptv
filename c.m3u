@@ -1,86 +1,158 @@
 #EXTM3U
-#EXTINF:-1,LBC
-http://178.132.3.162:88/LBC_SAT/video.m3u8
-#EXTINF:-1,LBC
-https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
-#EXTINF:-1,alliptvlinks.com 84. Lawrence of Arabia 1962 #imdb
-http://rexshx.com:8080/movie/armintestdev/ibtqg2AJhC/19691.mkv
-#EXTINF:-1,alliptvlinks.com SE: Till Det Som Ar Vackert 2010 #ef
-http://rexshx.com:8080/movie/armintestdev/ibtqg2AJhC/28120.mkv
-#EXTM3U
-#EXTINF:-1,alliptvlinks.com ARABESK FM
-http://anadolu.liderhost.com.tr:6688/;
-#EXTINF:-1,alliptvlinks.com Arabalar - 2006
-http://hd.iptvnexa.com:8080/movie/0xmPnDqr62/DpJnehv2Vp/81931.mkv
-#EXTINF:-1,alliptvlinks.com Arabalar 2 - 2011
-http://hd.iptvnexa.com:8080/movie/0xmPnDqr62/DpJnehv2Vp/81932.mkv
-#EXTINF:-1,alliptvlinks.com Arabalar 3 - 2017
-http://hd.iptvnexa.com:8080/movie/0xmPnDqr62/DpJnehv2Vp/113184.mkv
-#EXTINF:-1,alliptvlinks.com Arabalar: Mater'in Abartili Hikayeleri - 2008
-http://hd.iptvnexa.com:8080/movie/0xmPnDqr62/DpJnehv2Vp/81933.mkv
-#EXTM3U
-#EXTINF:-1,alliptvlinks.com Fazlaka Arabia
-http://beryantv.com:25461/17625148021317/99680079507649/1914
-#EXTINF:-1,alliptvlinks.com Beryan AR Movies Action
-http://beryantv.com:25461/17625148021317/99680079507649/1898
-#EXTINF:-1,alliptvlinks.com Beryan AR Movies Comedy1
-http://beryantv.com:25461/17625148021317/99680079507649/1899
-#EXTINF:-1,alliptvlinks.com Beryan AR Movies Comedy2
-http://beryantv.com:25461/17625148021317/99680079507649/1900
-#EXTINF:-1,alliptvlinks.com Beryan AR Movies Drama
-http://beryantv.com:25461/17625148021317/99680079507649/1903
-#EXTINF:-1,alliptvlinks.com Cinema Arabic 1
-http://beryantv.com:25461/17625148021317/99680079507649/1510
-#EXTINF:-1,alliptvlinks.com Cinema Arabic 2
-http://beryantv.com:25461/17625148021317/99680079507649/1511
-#EXTINF:-1,alliptvlinks.com Cinema Arabic 3
-http://beryantv.com:25461/17625148021317/99680079507649/1512
-#EXTINF:-1,alliptvlinks.com Cinema Arabic 4
-http://beryantv.com:25461/17625148021317/99680079507649/1513
-#EXTINF:-1,alliptvlinks.com Cinema Arabic 5
-http://beryantv.com:25461/17625148021317/99680079507649/1514
-#EXTINF:-1,alliptvlinks.com OSN Play 1
-http://beryantv.com:25461/17625148021317/99680079507649/1884
-#EXTINF:-1,alliptvlinks.com OSN Play 2
-http://beryantv.com:25461/17625148021317/99680079507649/1885
-#EXTINF:-1,alliptvlinks.com OSN Play 3
-http://beryantv.com:25461/17625148021317/99680079507649/1886
-#EXTINF:-1,alliptvlinks.com OSN Play 4
-http://beryantv.com:25461/17625148021317/99680079507649/1887
-#EXTINF:-1,alliptvlinks.com OSN Play 5
-http://beryantv.com:25461/17625148021317/99680079507649/1888
-#EXTINF:-1,alliptvlinks.com OSN Alfa Cinema 1
-http://beryantv.com:25461/17625148021317/99680079507649/1801
-#EXTINF:-1,alliptvlinks.com OSN Alfa Cinema 2
-http://beryantv.com:25461/17625148021317/99680079507649/1802
-#EXTINF:-1,alliptvlinks.com OSN Yahala Cinema
-http://beryantv.com:25461/17625148021317/99680079507649/1525
-#EXTINF:-1,alliptvlinks.com OSN Ya Hala HD
-http://beryantv.com:25461/17625148021317/99680079507649/1526
-#EXTINF:-1,alliptvlinks.com OSN Ya Hala Aloula
-http://beryantv.com:25461/17625148021317/99680079507649/1527
-#EXTINF:-1,alliptvlinks.com OSN Musalslat
-http://beryantv.com:25461/17625148021317/99680079507649/1529
-#EXTINF:-1,alliptvlinks.com OSN ALYOUM
-http://beryantv.com:25461/17625148021317/99680079507649/1534
-#EXTINF:-1,alliptvlinks.com OSN Movies HD
-http://beryantv.com:25461/17625148021317/99680079507649/1530
-#EXTINF:-1,alliptvlinks.com OSN Action HD
-http://beryantv.com:25461/17625148021317/99680079507649/1535
-#EXTINF:-1,alliptvlinks.com OSN First Movies HD
-http://beryantv.com:25461/17625148021317/99680079507649/1531
-#EXTINF:-1,alliptvlinks.com OSN Series First
-http://beryantv.com:25461/17625148021317/99680079507649/1528
-#EXTINF:-1,alliptvlinks.com OSN Movies Star HD
-http://beryantv.com:25461/17625148021317/99680079507649/1803
-#EXTINF:-1,alliptvlinks.com OSN Movies World HD
-http://beryantv.com:25461/17625148021317/99680079507649/1804
-#EXTINF:-1,alliptvlinks.com OSN Comedy HD
-http://beryantv.com:25461/17625148021317/99680079507649/1533
-#EXTINF:-1,alliptvlinks.com OSN E!
-http://beryantv.com:25461/17625148021317/99680079507649/1805
-#EXTINF:-1,alliptvlinks.com OSN Nat Geo Wild
-http://beryantv.com:25461/17625148021317/99680079507649/1536
+#EXTINF:-1,BEIN SPORTS 1
+http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
+#EXTINF:-1,BEIN SPORTS 9 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
+#EXTINF:-1,BEIN SPORTS 10 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
+#EXTINF:-1,BEIN DRAMA
+http://fariszah.myq-see.com:8008/live/demo/demo/21584.ts
+#EXTINF:-1,BEIN DRAMA  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21649.ts
+#EXTINF:-1,BEIN MOVIES 1
+http://fariszah.myq-see.com:8008/live/demo/demo/21585.ts
+#EXTINF:-1,BEIN MOVIES 1  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21648.ts
+#EXTINF:-1,BEIN MOVIES 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21586.ts
+#EXTINF:-1,BEIN MOVIES 2  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21647.ts
+#EXTINF:-1,BEIN MOVIES 3
+http://fariszah.myq-see.com:8008/live/demo/demo/21587.ts
+#EXTINF:-1,BEIN MOVIES 3  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21646.ts
+#EXTINF:-1,BEIN MOVIES 4
+http://fariszah.myq-see.com:8008/live/demo/demo/21588.ts
+#EXTINF:-1,BEIN MOVIES 4  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21645.ts
+#EXTINF:-1,OSN YAHALA
+http://fariszah.myq-see.com:8008/live/demo/demo/21601.ts
+#EXTINF:-1,OSN YAHALA  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21650.ts
+#EXTINF:-1,OSN YAHALA 1
+http://fariszah.myq-see.com:8008/live/demo/demo/21589.ts
+#EXTINF:-1,OSN YAHALA 1  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21626.ts
+#EXTINF:-1,OSN YAHALA CINEMA
+http://fariszah.myq-see.com:8008/live/demo/demo/21590.ts
+#EXTINF:-1,OSN YAHALA CINEMA  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21625.ts
+#EXTINF:-1,OSN ALFA MUSALSLAT
+http://fariszah.myq-see.com:8008/live/demo/demo/21591.ts
+#EXTINF:-1,OSN ALFA MUSALSLAT  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21629.ts
+#EXTINF:-1,OSN ALFA MUSALSLAT 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21592.ts
+#EXTINF:-1,OSN ALFA MUSALSLAT 2  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21628.ts
+#EXTINF:-1,OSN MOVIES
+http://fariszah.myq-see.com:8008/live/demo/demo/2313.ts
+#EXTINF:-1,OSN MOVIES FIRST
+http://fariszah.myq-see.com:8008/live/demo/demo/2309.ts
+#EXTINF:-1,OSN MOVIES FIRST 2
+http://fariszah.myq-see.com:8008/live/demo/demo/2310.ts
+#EXTINF:-1,OSN ACTION
+http://fariszah.myq-see.com:8008/live/demo/demo/2311.ts
+#EXTINF:-1,ART Hekayat 1
+http://fariszah.myq-see.com:8008/live/demo/demo/21613.ts
+#EXTINF:-1,ART Hekayat 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21612.ts
+#EXTINF:-1,ART Cinema
+http://fariszah.myq-see.com:8008/live/demo/demo/21614.ts
+#EXTINF:-1,ART Aflam 1
+http://fariszah.myq-see.com:8008/live/demo/demo/21617.ts
+#EXTINF:-1,ART Aflam 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21616.ts
+#EXTINF:-1,ART Variety
+http://fariszah.myq-see.com:8008/live/demo/demo/21610.ts
+#EXTINF:-1,ART America
+http://fariszah.myq-see.com:8008/live/demo/demo/21615.ts
+#EXTINF:-1,ART Movies America
+http://fariszah.myq-see.com:8008/live/demo/demo/21611.ts
+#EXTINF:-1,NETFLIX أكشن
+http://fariszah.myq-see.com:8008/live/demo/demo/21603.ts
+#EXTINF:-1,NETFLIX رعب
+http://fariszah.myq-see.com:8008/live/demo/demo/21605.ts
+#EXTINF:-1,NETFLIX دراما
+http://fariszah.myq-see.com:8008/live/demo/demo/21604.ts
+#EXTINF:-1,Dragon افلام
+http://fariszah.myq-see.com:8008/live/demo/demo/21606.ts
+#EXTINF:-1,Dragon أكشن
+http://fariszah.myq-see.com:8008/live/demo/demo/21607.ts
+#EXTINF:-1,Dragon رعب
+http://fariszah.myq-see.com:8008/live/demo/demo/21608.ts
+#EXTINF:-1,Dragon جريمة
+http://fariszah.myq-see.com:8008/live/demo/demo/21609.ts
+#EXTINF:-1,ARABIC MOVIES
+http://fariszah.myq-see.com:8008/live/demo/demo/21602.ts
+#EXTINF:-1,Masra7yaT
+http://fariszah.myq-see.com:8008/live/demo/demo/21596.ts
+#EXTINF:-1,NAT GEO HD
+http://fariszah.myq-see.com:8008/live/demo/demo/21593.ts
+#EXTINF:-1,NAT GEO SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21635.ts
+#EXTINF:-1,NATGEO WILD
+http://fariszah.myq-see.com:8008/live/demo/demo/21594.ts
+#EXTINF:-1,NATGEO WILD  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21633.ts
+#EXTINF:-1,NATGEO PEOPLE
+http://fariszah.myq-see.com:8008/live/demo/demo/21595.ts
+#EXTINF:-1,NATGEO PEOPLE  SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21634.ts
+#EXTINF:-1,Discovery HD
+http://fariszah.myq-see.com:8008/live/demo/demo/21597.ts
+#EXTINF:-1,Discovery SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21641.ts
+#EXTINF:-1,Discovery ID HD
+http://fariszah.myq-see.com:8008/live/demo/demo/21598.ts
+#EXTINF:-1,Discovery ID SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21644.ts
+#EXTINF:-1,Discovery Life HD
+http://fariszah.myq-see.com:8008/live/demo/demo/21599.ts
+#EXTINF:-1,Discovery Life SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21643.ts
+#EXTINF:-1,Discovery Science HD
+http://fariszah.myq-see.com:8008/live/demo/demo/21600.ts
+#EXTINF:-1,Discovery Science SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21642.ts
+#EXTINF:-1,MBC PLUS DRAMA
+http://fariszah.myq-see.com:8008/live/demo/demo/1409.ts
+#EXTINF:-1,WWE
+http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
 #EXTINF:-1,alliptvlinks.com MBC1
 http://beryantv.com:25461/17625148021317/99680079507649/1500
 #EXTINF:-1,alliptvlinks.com MBC2
@@ -103,35 +175,6 @@ http://beryantv.com:25461/17625148021317/99680079507649/1507
 http://beryantv.com:25461/17625148021317/99680079507649/1508
 #EXTINF:-1,alliptvlinks.com MBC-Bollywood
 http://beryantv.com:25461/17625148021317/99680079507649/1509
-#EXTINF:-1,alliptvlinks.com News:DW Arabic
-http://beryantv.com:25461/17625148021317/99680079507649/2028
-#EXTINF:-1,alliptvlinks.com News:F24 Arabic
-http://beryantv.com:25461/17625148021317/99680079507649/2029
-#EXTINF:-1,alliptvlinks.com News:RT Arabic
-http://beryantv.com:25461/17625148021317/99680079507649/2030
-#EXTINF:-1,alliptvlinks.com MBC-3
-http://beryantv.com:25461/17625148021317/99680079507649/1557
-#EXTINF:-1,alliptvlinks.com Gulli Arabi
-http://beryantv.com:25461/17625148021317/99680079507649/1772
-#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-name="AR - Dubai Racing"tvg-logo="http://pic.qw1234.org:80/logos/tn_dubairacing.jpg"group-title="TV | HORSES",alliptvlinks.com AR - Dubai Racing
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/17411
-#EXTINF:-1 tvg-id=""tvg-name="KR - MBC"tvg-logo="http://pic.qw1234.org/logos/tn_southkorea.jpg"group-title="TV | ASIA",alliptvlinks.com KR - MBC
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/75648
-#EXTINF:-1 tvg-id=""tvg-name="------------ Arabic TV ------------"tvg-logo=""group-title="TV | ARABIC",alliptvlinks.com ------------ Arabic TV ------------
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/5189
-#EXTINF:-1 tvg-id=""tvg-name="ARB - BBC Arabic"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - BBC Arabic
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23229
-#EXTINF:-1 tvg-id=""tvg-name="ARB - BEIN Fatafeat HD"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - BEIN Fatafeat HD
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23265
-#EXTINF:-1 tvg-id=""tvg-name="ARB - CBC"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - CBC
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23247
-#EXTINF:-1 tvg-id=""tvg-name="ARB - CBC Drama"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - CBC Drama
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23244
-#EXTINF:-1 tvg-id=""tvg-name="ARB - CBC Sofra"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - CBC Sofra
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23228
-#EXTINF:-1 tvg-id=""tvg-name="ARB - Al Mannar"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - Al Mannar
-http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23226
 #EXTINF:-1 tvg-id=""tvg-name="ARB - MBC 1 HD"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - MBC 1 HD
 http://aa1.dynns.com:80/1ZQ37xmhSF/K8X1ks1ybQGe/23264
 #EXTINF:-1 tvg-id=""tvg-name="ARB - MBC 2 HD"tvg-logo="http://pic.qw1234.org:80/logos/tn_Arabic.png"group-title="TV | ARABIC",alliptvlinks.com ARB - MBC 2 HD
