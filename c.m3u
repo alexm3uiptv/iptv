@@ -1,67 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FATAFEAT
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/36972?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX CINEMA 1
-http://185.71.64.167:80/7654321/1234567/100379?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX CINEMA 2
-http://185.71.64.167:80/7654321/1234567/100380?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FLIX Goldrak جراندايزر...
-http://185.71.64.167:80/7654321/1234567/100373?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LBC EUROPE HEVC
-http://185.71.64.167:80/7654321/1234567/148386?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LBC HD
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38292?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LBC HEVC
-http://185.71.64.167:80/7654321/1234567/148459?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LBC SAT
-http://185.71.64.167:80/7654321/1234567/86536?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LBCI INTERNATIONAL
-http://185.71.64.167:80/7654321/1234567/86535?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",LDC
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38297?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC 1
-http://185.71.64.167:80/7654321/1234567/79478?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC 1
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38159?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC1.net" group-title="Undefined",MBC 1 UHD
-http://185.71.64.167:80/7654321/1234567/79461?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC2.net" group-title="Undefined",MBC 2
-http://185.71.64.167:80/7654321/1234567/79477?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC2.net" group-title="Undefined",MBC 2
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38160?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC2.net" group-title="Undefined",MBC 2 UHD
-http://185.71.64.167:80/7654321/1234567/79460?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC4.net" group-title="Undefined",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC4.net" group-title="Undefined",MBC 4
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38162?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBC4.net" group-title="Undefined",MBC 4
-http://185.71.64.167:80/7654321/1234567/79475?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC 5
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38163?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC 5
-http://185.71.64.167:80/7654321/1234567/79474?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC 5 MAROC
-http://185.71.64.167:80/7654321/1234567/79372?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Undefined",MBC ACTION
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38164?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Undefined",MBC ACTION
-http://185.71.64.167:80/7654321/1234567/79473?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Undefined",MBC ACTION UHD
-http://185.71.64.167:80/7654321/1234567/79456?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC HD 1
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/1758?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MBC HD 2
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/1757?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="General",LBC International
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="MBC2.net" group-title="Movies",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Movies",MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN Movies Enigma
+http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18931?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="Undefined",OSN Movies HD
+http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18928?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN Star Movies HD
+http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18905?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN Star World HD
+http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18904?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: MOVIES FIRST HD
+http://185.71.64.167:80/7654321/1234567/78933?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN: MOVIES FIRST+2 HD
+http://185.71.64.167:80/7654321/1234567/78932?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OSN:SD: MOVIES ACTION
+http://185.71.64.167:80/7654321/1234567/78852?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OTV LEBANON HEVC
+http://185.71.64.167:80/7654321/1234567/148381?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OTV TV
+http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/38296?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OTV TV
+http://185.71.64.167:80/7654321/1234567/86544?checkedby:iptvcat.com
