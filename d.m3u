@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Hawacom" tvg-logo="" group-title="Live: Arabic FTA",AR: Hawacom
+http://client-proplus.com:8080/y7aMMBwRaW/UEEeNpRPQX/17162
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Mazzika" tvg-logo="" group-title="Live: Arabic FTA",AR: Mazzika
+http://client-proplus.com:8080/y7aMMBwRaW/UEEeNpRPQX/6592
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Mazzika Hits" tvg-logo="" group-title="Live: Arabic FTA",AR: Mazzika Hits
+http://client-proplus.com:8080/y7aMMBwRaW/UEEeNpRPQX/23378
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: OTV" tvg-logo="" group-title="Live: Arabic FTA",AR: OTV
+http://client-proplus.com:8080/y7aMMBwRaW/UEEeNpRPQX/6566
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: MTV LEBONAN HD" tvg-logo="" group-title="Live: Arabic FTA",AR: MTV LEBONAN HD
+http://client-proplus.com:8080/y7aMMBwRaW/UEEeNpRPQX/6585
+
+
+
+
+
+
+
+
